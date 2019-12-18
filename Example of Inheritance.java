@@ -1,3 +1,4 @@
+//used by the means of:extends
 class SuperClass 
 {
 private int var1=10;
