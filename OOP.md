@@ -41,11 +41,7 @@ DISADVANTAGES
 
 ADVANTAGES
 
-     One of the key benefits of inheritance is to minimize the amount of duplicate code in an application by sharing common code amongst several subclasses. ...
+     One of the key benefits of inheritance is to minimize the amount of duplicate code in an application by sharing common code amongst several subclasses.
     Inheritance can also make application code more flexible to change because classes that inherit from a common superclass can be used interchangeably.
-
-
-
-
 
 Thus, OOP improves *maintainability ,flexibility and re-usability.*
