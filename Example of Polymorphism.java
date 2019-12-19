@@ -32,9 +32,9 @@ private float Multiply(float a,float b)
  public void Input()
  {
     Multiply x=new Multiply();
-    System.out.println("For accurate sum");
+    System.out.println("For accurate multiplication");
     float a=x.Multiply(904.45f,654.2132f);
-   System.out.println("For accurate sum");
+   System.out.println("For accurate multiplication");
     int b=x.Multiply(904,654);
  }
 }
@@ -51,9 +51,9 @@ private float Divide(float a,float b)
  public void Input()
  {
     Divide x=new Divide();
-    System.out.println("For accurate sum");
+    System.out.println("For accurate division");
     float a=x.Divide(904.45f,654.2132f);
-   System.out.println("For accurate sum");
+   System.out.println("For accurate division");
     int b=x.Divide(904,654);
 }
 public static void main(String args[])
