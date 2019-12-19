@@ -31,8 +31,8 @@ class Encapsulation
   public static void main(String args[])
   {
     Encapsulation ob=new Encapsulation();
-    ob.ChangeSSN("123453231");
-    ob.ChangeDOB(05,09,1458);
+    ob.ChangeSSN("123453231");//cannot be done by any other source
+    ob.ChangeDOB(05,09,1458);//cannot be done by any other source
     ob.getDate("alex");
     ob.getMonth("alex");
     ob.getYear("alex");
