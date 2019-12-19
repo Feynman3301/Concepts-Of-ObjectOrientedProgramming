@@ -39,17 +39,3 @@ class Encapsulation
     ob.getSSN("alex");
   }
 }
-class Access extends Encapsulation
-{
-    Access ob=new Access();
-    super.ob.ChangeSSN("123453231");
-     super.ob.ChangeDOB(05,09,1458);
-     super.ob.getDate("alex");
-     super.ob.getMonth("alex");
-     super.ob.getYear("alex");
-     super.ob.getSSN("alex");
-}
- 
-  
-  
-  
